@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I'm new to this stuff. Currently learning data science @lewagon.
 
 <!--
 **Bketting/Bketting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
